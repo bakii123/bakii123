@@ -23,7 +23,7 @@
 
 <pre>
 ◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
+◈  Origin    →  morocco 🇲🇦
 </pre>
 
 </div>
